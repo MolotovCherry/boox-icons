@@ -2,9 +2,9 @@
 
 Some icons I made for my boox Nova Air 2.
 
-![Chrome](com_android_chrome.png)
-![Play Store](com_amazon_vending.png)
-![Google Play Store](eu_kanade_tachiyomi.png)
+![Chrome](icons/com_android_chrome.png)
+![Play Store](icons/com_android_vending.png)
+![Google Play Store](icons/eu_kanade_tachiyomi.png)
 
 # How to install (Nova Air 2)
 Drop the icons into `Download/Onyx/icon`
