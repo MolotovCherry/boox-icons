@@ -1,6 +1,6 @@
 # boox-icons
 
-Some icons I made for my boox Nova Air 2.
+Some app launcher icons I made for my boox Nova Air 2.
 
 ![Chrome](icons/com_android_chrome.png)
 ![Play Store](icons/com_android_vending.png)
